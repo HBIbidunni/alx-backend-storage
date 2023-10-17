@@ -5,7 +5,9 @@ This project focuses on the understanding and implemention of __NoSQL databases_
 specifically `MongoDB`, a popular __document-oriented NoSQL database__. 
 The project explores the basics of `MongoDB`, document-based __data models__, __querying__, __updating__, and __data aggregation__.
 
-## Project Requirement :briefcase:
+
+## Project Requirements :briefcase:
+
 
 - All files should be interpreted/compiled on `Ubuntu 18.04 LTS` using python3 (version 3.7) and PyMongo (version 3.10)
 - All files should end with a new line
